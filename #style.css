@@ -1,4 +1,9 @@
 body {
     background-color: #483D8B;
-    color: blueviolet;
+    color: white;
+    }
+    .escola {
+        background-image: linear-gradient(#483D8B, #00c0eb);
+        color: white;
+        display:flex;
     }
